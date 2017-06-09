@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_5">
+    <output url="file://$MODULE_DIR$/../../../hibernatetutorial/comnmlhibernatetutorial/target/classes" />
+    <output-test url="file://$MODULE_DIR$/../../../hibernatetutorial/comnmlhibernatetutorial/target/test-classes" />
+    <content url="file://$MODULE_DIR$/../../../hibernatetutorial" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" exported="" name="Maven: org.hibernate.common:hibernate-commons-annotations:4.0.1.Final" level="project" />
+    <orderEntry type="library" exported="" name="Maven: org.hibernate:hibernate-core:4.1.9.Final" level="project" />
+    <orderEntry type="library" exported="" name="Maven: org.hibernate.javax.persistence:hibernate-jpa-2.0-api:1.0.1.Final" level="project" />
+    <orderEntry type="library" exported="" name="Maven: antlr:antlr:2.7.7" level="project" />
+    <orderEntry type="library" exported="" name="Maven: dom4j:dom4j:1.6.1" level="project" />
+    <orderEntry type="library" exported="" name="Maven: xml-apis:xml-apis:1.0.b2" level="project" />
+    <orderEntry type="library" exported="" name="Maven: javax.persistence:persistence-api:1.0.2" level="project" />
+    <orderEntry type="library" exported="" name="Maven: org.javassist:javassist:3.17.1-GA" level="project" />
+    <orderEntry type="library" exported="" name="Maven: org.jboss.logging:jboss-logging:3.1.0.GA" level="project" />
+    <orderEntry type="library" exported="" name="Maven: org.jboss.spec.javax.transaction:jboss-transaction-api_1.1_spec:1.0.0.Final" level="project" />
+    <orderEntry type="library" exported="" name="Maven: mysql:mysql-connector-java:5.1.10" level="project" />
+  </component>
+</module>
