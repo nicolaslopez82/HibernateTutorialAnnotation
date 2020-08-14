@@ -1,4 +1,4 @@
-# HibernateTutorialAnnotation
+# HibernateAnnotations
 Hibernate application in which demonstrates the usage of annotations using Inner Joins, SessionFactory, Hibernate Cascade Functionality, etc.
 
 # When to use annotations?
